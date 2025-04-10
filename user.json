@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Akshit",
+    "position": "CEO",
+    "salary": 750000.0
+  },
+  {
+    "id": 2,
+    "name": "Harshit",
+    "position": "COO",
+    "salary": 750000.0
+  },
+  {
+    "id": 3,
+    "name": "Harsh",
+    "position": "CFO",
+    "salary": 750000.0
+  }
+]
